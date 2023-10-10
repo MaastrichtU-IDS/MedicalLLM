@@ -1,5 +1,5 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
+title: A Updating Collection of Healthcare Large Langauge Models
+description: We create an overview of advanced LLM applications that are leveraged in healthcare, medicine and clinical settings.
 remote_theme: pages-themes/hacker@v0.2.0
 show_downloads: "true"
 plugins:
