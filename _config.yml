@@ -3,4 +3,4 @@ description: We create an overview of advanced LLM applications that are leverag
 remote_theme: pages-themes/hacker@v0.2.0
 show_downloads: "true"
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-theme-cayman # add this line to the plugins list if you already have one
