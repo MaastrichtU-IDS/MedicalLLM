@@ -4,6 +4,7 @@ This repository is for collecting and updating existing and upcoming LLM tools a
 ## Summary of LLMs in medicine, healthcare, and clinical settings. 
 This table is updated by 12 October 2023 including GatorTron, Bio-BERT, PubMedBert, BioMegatron, ClinicalBERT, Med-PaLM 1 & 2.
 
+<img src="LLM_diag.png" width=800>
 
   | Model | Paper | Code | Complexity | Data | Tasks |
   |---|---|---|---|---|---|
