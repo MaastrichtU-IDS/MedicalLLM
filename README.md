@@ -1,4 +1,4 @@
-# HealthcareLLM
+# MedicalLLMs
 This repository is for collecting and updating existing and upcoming LLM tools and papers focusing on healthcare and medicine domain.
 
 ## Summary of LLMs in medicine, healthcare, and clinical settings. 
