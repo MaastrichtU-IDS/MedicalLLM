@@ -16,17 +16,6 @@ This table is updated by 12 October 2023 including GatorTron, Bio-BERT, PubMedBe
   | Med-PaLM1 | [Link](https://doi.org/10.1038/s41586-023-06291-2)  | Close | Built-on [PaLM](https://doi.org/10.48550/arXiv.2204.02311): 540B | **MultiMedQA:** <br />(medical exams & research datasets) <br />1. [MedQA](https://www.nature.com/articles/s41586-023-06291-2#ref-CR3) <br />2. [MedMCQA](https://www.nature.com/articles/s41586-023-06291-2#ref-CR4) <br />3. [PubMedQA](https://www.nature.com/articles/s41586-023-06291-2#ref-CR5) <br />4. [LiveQA](https://www.nature.com/articles/s41586-023-06291-2#ref-CR13) <br />5. [MedicationQA](https://www.nature.com/articles/s41586-023-06291-2#ref-CR14) <br />6. [MMLU clinical topics](https://www.nature.com/articles/s41586-023-06291-2#ref-CR6)<br /> **HealthSearchQA** <br />(curated searched health queries) <br />7.[HealthSearchQA](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06291-2/MediaObjects/41586_2023_6291_MOESM6_ESM.xlsx) | Question answering  |
   | Med-PaLM2  | [Link](https://arxiv.org/pdf/2305.09617.pdf)  | Close  | Based on [PaLM 2](https://ai.google/static/documents/palm2techreport.pdf) | 1. [MedQA](https://www.nature.com/articles/s41586-023-06291-2#ref-CR3) <br />2. [MedMCQA](https://www.nature.com/articles/s41586-023-06291-2#ref-CR4) <br />3. [PubMedQA](https://www.nature.com/articles/s41586-023-06291-2#ref-CR5) <br />4. [MMLU clinical topics](https://www.nature.com/articles/s41586-023-06291-2#ref-CR6) <br />5. [HealthSearchQA](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06291-2/MediaObjects/41586_2023_6291_MOESM6_ESM.xlsx) <br />6. [LiveQA](https://lhncbc.nlm.nih.gov/LHC-publications/PDF/pub9773.pdf) <br />7. [MedicationQA](https://pubmed.ncbi.nlm.nih.gov/31437878/) | Question answering |
 
-## Quick start code 
-We will share the example code from each accessible LLMs mentioned above. 
-### GatorTron
-
-### Bio-BERT
-
-### PubMedBert
-
-### ClinicalBERT
-
-
 ## Evaluation methods / Benchmarks
   | Platform | Paper | Code | Tasks | Metrics | Datasets |
   |---|---|---|---|---|---|
@@ -34,3 +23,9 @@ We will share the example code from each accessible LLMs mentioned above.
   | [BLURB](https://microsoft.github.io/BLURB/) | [Link](https://arxiv.org/abs/2007.15779) | 404 | - NER <br />- Question answering <br />- Information retrieval <br />- Relation extraction <br />- Semantic similarity <br />- Classification | Accuracy (F1, correlation) | [Download Page](https://microsoft.github.io/BLURB/tasks.html) |
   | [GLUE](https://gluebenchmark.com/) | [Link](https://openreview.net/pdf?id=rJ4km2R5t7) | [Github](https://github.com/nyu-mll/GLUE-baselines) | - Question answering <br />- Semantic similarity <br />- NLI <br />- Sentiment analysis <br />- Coreference resolution | Accuracy (F1, correlation) | [Download Page](https://gluebenchmark.com/tasks) |
   | [SUPERGLUE](https://super.gluebenchmark.com/) | [Link](https://arxiv.org/abs/1905.00537) | [Github](https://github.com/nyu-mll/jiant) | - Question answering <br />- Reasoning <br />- Classification <br />- Text Entailment <br />- Coreference resolution | Accuracy (F1, correlation) | [Download Page](https://super.gluebenchmark.com/tasks) |
+
+
+
+## Summary of Knowledge-enhanced LLMs 
+There is a comprehensive review paper on Knowledge-enhanced LLM: [A Survey of Knowledge Enhanced Pre-Trained Language Models](https://doi.org/10.1109/TKDE.2023.3310002)
+
