@@ -28,4 +28,7 @@ This table is updated by 12 October 2023 including GatorTron, Bio-BERT, PubMedBe
 
 ## Summary of Knowledge-enhanced LLMs 
 There is a comprehensive review paper on Knowledge-enhanced LLM: [A Survey of Knowledge Enhanced Pre-Trained Language Models](https://doi.org/10.1109/TKDE.2023.3310002)
+A comparable work of Knowledge-enhanced medical LLM: [SMedBERT: A Knowledge-Enhanced Pre-trained Language Model with Structured Semantics for Medical Text Mining](https://aclanthology.org/2021.acl-long.457.pdf)
 
+
+<img src="kellm.png" width=800>
